@@ -18,7 +18,7 @@ This project is a minimal system that permanently preserves useful technical res
 1. Clone the repository:
 
 ```bash
-
+git clone https://github.com/uttkarshshrivastav/slack-integrated-knowledge-base
 ```
 
 2. Create a Python 3.11 virtual environment:
